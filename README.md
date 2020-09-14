@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 [![GitHub Deteriator](https://img.shields.io/github/followers/Deteriator?label=follow&style=social)](https://github.com/Deteriator)
 
 ### Metrics
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=Deteriator&show_icons=true alt=Deteriator />
+</p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More on me below...  
 
 ```javascript
