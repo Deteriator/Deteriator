@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![GitHub Deteriator](https://img.shields.io/github/followers/Deteriator?label=follow&style=social)](https://github.com/Deteriator)
 
 ### Metrics
-<p align="center">
+<p align="left">
 	<img src=https://github-readme-stats.vercel.app/api?username=Deteriator&show_icons=true alt=Deteriator />
 </p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More on me below...  
