@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Mark Griffith! <img src="https://toggl.com/blog/wp-content/uploads/2018/08/programming-comic-blog-header.png" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">WW International</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" 
+<img align='right' src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://www.weightwatchers.com/us/about-WW">WW International</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" 
 </em></p>
 
 [![Linkedin: Mark Griffith](https://img.shields.io/badge/-Mark_Griffith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-mark)](https://www.linkedin.com/in/g-mark)
