@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
 	<img src=https://github-readme-stats.vercel.app/api?username=Deteriator&show_icons=true alt=Deteriator />
 </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More on me below...  
+### More on me below... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ```javascript
 const Mark = {
