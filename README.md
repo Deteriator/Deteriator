@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin: Mark Griffith](https://img.shields.io/badge/-Mark_Griffith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-mark)](https://www.linkedin.com/in/g-mark)
 [![GitHub Deteriator](https://img.shields.io/github/followers/Deteriator?label=follow&style=social)](https://github.com/Deteriator)
 
+{{ ACCOUNT_AGE }}
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More on me below...  
 
@@ -38,7 +39,7 @@ const Mark = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let me know a skill you've learned this week</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
