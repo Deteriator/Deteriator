@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Mark Griffith! <img src="https://toggl.com/blog/wp-content/uploads/2018/08/programming-comic-blog-header.png" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/embed/YQitE4YNQNahy" width="230">
 <p><em>Software Enginner at <a href="https://www.weightwatchers.com/us/about-WW">WW International</a><img src="http://gph.is/297cNL0" width="30" 
 </em></p>
+  
 
 [![Linkedin: Mark Griffith](https://img.shields.io/badge/-Mark_Griffith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-mark)](https://www.linkedin.com/in/g-mark)
 [![GitHub Deteriator](https://img.shields.io/github/followers/Deteriator?label=follow&style=social)](https://github.com/Deteriator)
