@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Mark Griffith! <img src="https://toggl.com/blog/wp-content/uploads/2018/08/programming-comic-blog-header.png" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.weightwatchers.com/us/about-WW">WW International</a><img src="http://gph.is/297cNL0" width="30" 
 </em></p>
   
