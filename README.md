@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### Metrics
 <p align="left">
 	<img src=https://github-readme-stats.vercel.app/api?username=Deteriator&show_icons=true alt=Deteriator />
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Deteriator&show_icons=true alt=Deteriator />
 </p>
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
