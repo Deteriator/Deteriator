@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </em></p>
   
 
-[![Linkedin: Mark Griffith](https://img.shields.io/badge/-Mark_Griffith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-mark)](https://www.linkedin.com/in/g-mark)
 [![GitHub Deteriator](https://img.shields.io/github/followers/Deteriator?label=follow&style=social)](https://github.com/Deteriator)
 
 ### Metrics
